@@ -1,0 +1,65 @@
+
+
+/*text css*/
+.text{
+	
+	width: 700px;
+	text-align: ;
+	color: blue;
+	border: 1px solid black;
+	padding: 15px;
+	margin: 0px auto;
+}
+
+/*text p css*/
+.text p{
+	text-transform: capitalize;
+	text-align: justify;
+	text-indent: 50px;
+}
+
+/*span if*/
+
+	#if{
+		text-decoration: underline;
+		text-decoration-style: double;
+		text-decoration-color: red;
+	}
+
+
+
+/*text t1*/
+.text .t1{
+	text-decoration: overline underline;
+	text-decoration-style: wavy;
+	text-align: center;
+	text-transform: uppercase;
+	word-spacing: -3px;
+	font-family: 'Lobster', cursive;
+
+}
+
+/*text t2*/
+
+.text .t2{
+	text-decoration: underline;
+	text-decoration-style: double;
+	text-align: right;
+	text-transform: lowercase;
+	letter-spacing: 3px;
+	word-spacing: 3px;
+	text-shadow: 2px 2px red;
+	
+}
+
+/*text t3*/
+
+.text .t3{
+
+
+	text-decoration: line-through;
+	text-transform: capitalize;
+	letter-spacing: 3px;
+	word-spacing: 3px;
+}
+
